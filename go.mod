@@ -1,3 +1,3 @@
-module github.com/ExAloix/utils/v2
+module github.com/ExAloix/utils/v3
 
 go 1.14
